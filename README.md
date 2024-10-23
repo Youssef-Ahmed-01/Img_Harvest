@@ -15,7 +15,7 @@ open imgScraping.py on line 7, replace the default url (BBC url) with the url of
 
 3. **run the venv and install requirements**
     ```terminal/bash
-    python3 -m venv env
+    python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
 4. **then run using python or python3**  

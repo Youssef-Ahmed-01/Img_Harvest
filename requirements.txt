@@ -1,0 +1,7 @@
+requests
+BeautifulSoup4
+pandas
+selenium
+scrapy
+free-proxy
+TextBlob

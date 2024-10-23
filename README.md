@@ -1,4 +1,4 @@
-# Image Scraping
+# Web Scraping
 
 ## Overview
 
